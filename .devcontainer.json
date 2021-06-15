@@ -1,0 +1,5 @@
+{
+    "name": "Ubuntu-Z",
+    "dockerComposeFile": "docker-compose.devcontainer.yml",
+    "service": "build-sys"
+  }
